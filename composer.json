@@ -1,0 +1,17 @@
+{
+    "name": "assert6/circuit-breaker",
+    "autoload": {
+        "psr-4": {
+            "Assert6\\CircuitBreaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "assert6",
+            "email": "z@hyperf.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
